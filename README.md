@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Thomas Huang
-- 🌱 I’m currently learning Information Management @ UIUC
+- 🌱 I’m currently studying MS in Information Management @ UIUC
 - 📫 You can reach me at yenshouhuang@gmail.com
 
 <!---
